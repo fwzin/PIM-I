@@ -17,26 +17,17 @@ Outras equipes incluem administrativa, comercial, negócios e marketing, finance
 As equipes de administração e desenvolvimento são consideradas usuários avançados, enquanto as outras equipes têm pouco conhecimento em sistemas.
 
 Quantidade de usuários por equipe:
+
 Equipe de administradores da rede 3 + 1 líder
-
 Equipe de suporte aos usuários internos 6 + 1 líder
-
 Equipe administrativa 3 + 5 líderes
-
 Equipe de negócios e marketing 4
-
 Equipe comercial 12
-
 Suporte aos clientes e usuários dos sistemas 5 + 1 líder
-
 Equipe financeira 3
-
 Equipe de desenvolvimento suporte 12 + 2 líderes
-
 Equipe de desenvolvimento manutenção 12 + 2 líderes
-
 Equipe de criação 10 + 1 líder
-
 Recepção e atendimento ao público 2
 
 Demandas das equipes incluem:
