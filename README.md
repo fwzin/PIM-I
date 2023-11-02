@@ -16,8 +16,8 @@ A equipe de suporte de tecnologia é dividida em administradores de rede e supor
 Outras equipes incluem administrativa, comercial, negócios e marketing, financeira, suporte aos clientes e usuários dos sistemas, desenvolvimento de suporte, desenvolvimento de manutenção e desenvolvimento de criação.
 As equipes de administração e desenvolvimento são consideradas usuários avançados, enquanto as outras equipes têm pouco conhecimento em sistemas.
 
-Quantidade de usuários por equipe:
 
+Quantidade de usuários por equipe:
 Equipe de administradores da rede 3 + 1 líder
 Equipe de suporte aos usuários internos 6 + 1 líder
 Equipe administrativa 3 + 5 líderes
@@ -29,6 +29,7 @@ Equipe de desenvolvimento suporte 12 + 2 líderes
 Equipe de desenvolvimento manutenção 12 + 2 líderes
 Equipe de criação 10 + 1 líder
 Recepção e atendimento ao público 2
+
 
 Demandas das equipes incluem:
 
